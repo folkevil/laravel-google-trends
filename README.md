@@ -10,7 +10,7 @@ To get the latest version of LaravelGoogleTrends require it in your `composer.js
 "folkevil/laravel-google-trends": "dev-master"
 ~~~
 
-Run `composer update jonasva/laravel-google-trends` to install it.
+Run `composer update folkevil/laravel-google-trends` to install it.
 
 Once LaravelGoogleTrends is installed you need to register its service provider with your application. Open `app/config/app.php` and find the `providers` key.
 
