@@ -7,7 +7,7 @@ Laravel google trends provides an easy way to make queries to Google Trends. It 
 To get the latest version of LaravelGoogleTrends require it in your `composer.json` file.
 
 ~~~
-"jonasva/laravel-google-trends": "dev-master"
+"folkevil/laravel-google-trends": "dev-master"
 ~~~
 
 Run `composer update jonasva/laravel-google-trends` to install it.
